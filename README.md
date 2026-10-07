@@ -18,4 +18,4 @@
 - 自作ライブラリ・解答コード: [atcoder](https://github.com/kk-0227/atcoder)
 
 ## 暗号実装
--SIDHのC++実装(開発中・学習目的) : [sidh](https://github.com/kk-0227/sidh)
+- SIDHのC++実装(開発中・学習目的) : [sidh](https://github.com/kk-0227/sidh)
