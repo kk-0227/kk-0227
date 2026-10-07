@@ -17,5 +17,5 @@
 - 2アカウント合計で約1000問を解いています
 - 自作ライブラリ・解答コード: [atcoder](https://github.com/kk-0227/atcoder)
 
-## Projects
--SIDH(超特異同種写像Diffie-Hellman鍵交換)のC++実装(開発中・学習目的) : [sidh](https://github.com/kk-0227/sidh)
+## 暗号実装
+-SIDHのC++実装(開発中・学習目的) : [sidh](https://github.com/kk-0227/sidh)
